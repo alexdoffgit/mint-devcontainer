@@ -1,8 +1,8 @@
 {
-  "name": "workspace",
+  "name": "mint-vscode-devcontainer",
   "application": {
     "head": "assets/head.html",
-    "title": "workspace",
+    "title": "mint-vscode-devcontainer",
     "icon": "assets/favicon.png"
   },
   "external": {

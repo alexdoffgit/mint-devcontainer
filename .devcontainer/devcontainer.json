@@ -1,0 +1,8 @@
+{
+    "name": "mint-devcontainer",
+    "image": "mintlang/mint",
+    "appPort": [3000],
+    "extensions": [
+        "mint-lang.mint"
+    ]
+}
