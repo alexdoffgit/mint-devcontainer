@@ -4,5 +4,8 @@
     "appPort": [3000],
     "extensions": [
         "mint-lang.mint"
-    ]
+    ],
+    "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+    },
 }
